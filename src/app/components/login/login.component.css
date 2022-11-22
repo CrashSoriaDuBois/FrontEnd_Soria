@@ -1,0 +1,16 @@
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    }
+    div {
+        background: #fff;
+    }
+    p { color : #4b423c}
+    .h1 {color : #4b423c}
+    .fw-normal {color : #4b423c}
+    .form-label{color : #4b423c}
+    
+    
