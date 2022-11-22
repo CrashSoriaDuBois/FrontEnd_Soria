@@ -1,7 +1,8 @@
 {
   "projects": {
     "default": "frontendportafoliosorias",
-    "proyect": "frontendportafoliosorias"
+    "proyect": "frontendportafoliosorias",
+    "Proyect": "frontendportafoliosorias"
   },
   "targets": {},
   "etags": {}

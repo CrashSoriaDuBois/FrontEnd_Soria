@@ -15,7 +15,8 @@ export const environment = {
 
   production: false,
  //URL: 'https://backendportafoliosorias.herokuapp.com/'
-  URL: 'http://localhost:8080/'
+  //URL: 'http://localhost:8080/'
+  URL: 'https://backendsorias-soriapreacher.koyeb.app/'
 };
 
 /*
